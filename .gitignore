@@ -1,0 +1,10 @@
+!EWARM/
+EWARM/*
+!EWARM/*.ewp
+!EWARM/*.eww
+
+Drivers/
+
+!python/
+python/*
+!python/*.py
